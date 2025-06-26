@@ -1,11 +1,16 @@
 How to Download Quicken You Already Purchased: Step-by-Step Guide (2025 Update)
 =================================================================================
 
-.. note::
-   **Keywords used**: *quicken download, quicken download already purchased, quicken download for windows 11, quicken download to new computer, quicken download already purchased update, quicken download already purchased canada, quicken download free, quicken download reinstall, quicken download free version, quicken download for windows, quicken download app, quicken download canada, quicken download issues*
+.. raw:: html
 
-✅ Introduction
----------------
+    <div style="text-align:center; margin-top:25px; margin-bottom:40px;">
+        <a href="#" target="_blank" style="background-color:#ff9800; color:white; padding:14px 30px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 0 12px rgba(255,152,0,0.5);">
+            Download Quicken You Already Purchased
+        </a>
+    </div>
+
+Quicken
+-------
 If you’ve already purchased **Quicken** and need to reinstall it—whether you're switching devices, updating, or facing install issues—you’re in the right place.
 
 This step-by-step guide helps you:
@@ -15,7 +20,7 @@ This step-by-step guide helps you:
 - **Fix Quicken download issues**
 - Includes steps for **Canada-based users**
 
-🧩 Who Needs This Guide?
+Who Needs This Guide?
 -------------------------
 - You bought **Quicken** and want to reinstall it
 - You're moving to a **new computer**
@@ -24,7 +29,7 @@ This step-by-step guide helps you:
 - You’re having **issues downloading Quicken**
 - You want the **free version or mobile app**
 
-🔽 Step-by-Step: How to Download Quicken Already Purchased
+Step-by-Step: How to Download Quicken Already Purchased
 -----------------------------------------------------------
 
 **Step 1: Go to the Official Quicken Website**
@@ -54,8 +59,8 @@ After logging in:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Select your OS:
 
-- 🪟 For **Windows 11 / Windows 10**: Click **Download for Windows**
-- 🍏 For **Mac**: Click **Download for Mac**
+- For **Windows 11 / Windows 10**: Click **Download for Windows**
+- For **Mac**: Click **Download for Mac**
 
 .. tip::
    This will download an `.exe` or `.dmg` file depending on your OS.
@@ -78,7 +83,7 @@ After installation:
 - Log in again using your **Quicken ID**
 - Your plan is auto-detected — *no product key needed*
 
-🧠 Bonus Tips & FAQs
+Bonus Tips & FAQs
 ---------------------
 
 **❓ How to download Quicken to a new computer?**
