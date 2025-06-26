@@ -1,10 +1,14 @@
 How to Download Quicken You Already Purchased: Step-by-Step Guide (2025 Update)
 =================================================================================
 
+.. contents:: Table of Contents
+   :depth: 2
+   :local:
+
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px; margin-bottom:40px;">
-        <a href="#" target="_blank" style="background-color:#ff9800; color:white; padding:14px 30px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 0 12px rgba(255,152,0,0.5);">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscHBvcnRhbC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank" style="background-color:#ff9800; color:white; padding:14px 30px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 0 12px rgba(255,152,0,0.5);">
             Download Quicken You Already Purchased
         </a>
     </div>
@@ -21,7 +25,7 @@ This step-by-step guide helps you:
 - Includes steps for **Canada-based users**
 
 Who Needs This Guide?
--------------------------
+---------------------
 - You bought **Quicken** and want to reinstall it
 - You're moving to a **new computer**
 - You use **Windows 11**
@@ -30,13 +34,17 @@ Who Needs This Guide?
 - You want the **free version or mobile app**
 
 Step-by-Step: How to Download Quicken Already Purchased
------------------------------------------------------------
+--------------------------------------------------------
+
+.. _step-1:
 
 **Step 1: Go to the Official Quicken Website**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Visit: `https://www.quicken.com`
+Visit: `https://www.quicken.com <https://www.quicken.com>`_
 
 Click on **Sign In > My Account** (top-right corner)
+
+.. _step-2:
 
 **Step 2: Log In with Your Quicken ID**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -46,6 +54,8 @@ Click on **Sign In > My Account** (top-right corner)
 .. important::
    This is *crucial* to access the version you’ve already purchased.
 
+.. _step-3:
+
 **Step 3: Locate Your Quicken Purchase**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 After logging in:
@@ -54,6 +64,8 @@ After logging in:
 - Click **Subscriptions** or **Order History**
 - Locate your purchased version (Windows / Mac / Canada-specific)
 - Click **Download** next to your product
+
+.. _step-4:
 
 **Step 4: Download Quicken Installer**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -65,6 +77,8 @@ Select your OS:
 .. tip::
    This will download an `.exe` or `.dmg` file depending on your OS.
 
+.. _step-5:
+
 **Step 5: Install Quicken on Your Device**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - **Windows 11 users**: Double-click `.exe` and follow instructions.
@@ -75,6 +89,8 @@ Select your OS:
    - Disable antivirus temporarily
    - Use another browser like **Chrome** or **Edge**
 
+.. _step-6:
+
 **Step 6: Activate Using Your Quicken ID**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 After installation:
@@ -84,13 +100,13 @@ After installation:
 - Your plan is auto-detected — *no product key needed*
 
 Bonus Tips & FAQs
----------------------
+-----------------
 
 **❓ How to download Quicken to a new computer?**
 - Just repeat the steps. Your subscription works on any device as long as you use the same **Quicken ID**.
 
 **❓ How to download Quicken if you're in Canada?**
-- Visit: `https://www.quicken.com/canada`
+- Visit: `https://www.quicken.com/canada <https://www.quicken.com/canada>`_
 - Follow the same steps, but ensure you're downloading the **Canadian version**.
 
 **❓ Is there a free version of Quicken?**
@@ -107,21 +123,26 @@ Try these fixes:
 - Ensure **system compatibility** (especially with Windows 11)
 - **Reboot** and try again
 
-Still stuck? Visit: `https://www.quicken.com/support`
+Still stuck? Visit: `https://www.quicken.com/support <https://www.quicken.com/support>`_
 
-🔁 Need to Reinstall Quicken?
-------------------------------
+Need to Reinstall Quicken?
+--------------------------
 Yes, you can reinstall **Quicken** anytime:
 
-- Just follow: **Login → Download → Install → Activate**
+- Just follow: :ref:`Login → Download → Install → Activate <step-1>`
 - No repurchase needed — your subscription remains active
 
 🎯 Conclusion
---------------
+-------------
 Downloading **Quicken** you’ve already purchased is simple when you follow these steps. Whether you're on **Windows 11**, **a new computer**, in **Canada**, or resolving **Quicken download issues**, just make sure you:
+
+    .. raw:: html
+
+    <div style="text-align:center; margin:20px 0;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscHBvcnRhbC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank" style="background-color:#26a69a; color:white; padding:14px 26px; font-size:17px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
+            Get Help
+        </a>
+    </div>
 
 - Use your **Quicken ID**
 - Go to the **official download link**
-
-
-
