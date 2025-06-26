@@ -11,9 +11,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Budget Travel'
-copyright = '2025, Budget Travel'
-author = 'Budget Travel'
+project = 'Download Quicken Already Purchased – Full Guide'
+copyright = '2025, Download Quicken Already Purchased – Full Guide'
+author = 'Download Quicken Already Purchased – Full Guide'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Budget Travel – Pocket-Friendly Trips for Everyone"
+html_title = "How to Download Quicken You Already Purchased (2025 Guide for Windows, Canada & More)"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Budget Travel Deals 2025"
+html_short_title = "Download Quicken Already Purchased – Full Guide"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
